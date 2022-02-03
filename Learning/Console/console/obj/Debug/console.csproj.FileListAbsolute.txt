@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\bin\Debug\console.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\bin\Debug\console.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\bin\Debug\console.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\obj\Debug\console.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\obj\Debug\console.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\obj\Debug\console.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\obj\Debug\console.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\Console\console\obj\Debug\console.pdb
