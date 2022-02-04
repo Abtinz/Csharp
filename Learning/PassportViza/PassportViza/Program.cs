@@ -42,9 +42,11 @@ namespace PassportViza
                              +"\n---------------------------------------------------------------"
                              + "\nThe finall cost of the permission to leave the country (Toman):"+finallCost+
                              "\nWhishing you a good trip"+
-                             "\n---------------------------------------------------------------"
-
+                             "\n---------------------------------------------------------------" +
+                             "\nPress eny key to exit"
                                );
+            Console.ReadLine();
+
         }
     }
 }
