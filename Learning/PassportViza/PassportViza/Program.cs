@@ -34,6 +34,7 @@ namespace PassportViza
 
             Console.Write("Duration of trip (Day): ");
             String DayTemp = Console.ReadLine();
+            //cast every thing to int with int.Parse
             day = int.Parse(DayTemp);
             finallCost = day * costPerDay;
 
