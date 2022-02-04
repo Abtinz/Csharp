@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\bin\Debug\PassportViza.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\bin\Debug\PassportViza.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\bin\Debug\PassportViza.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\obj\Debug\PassportViza.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\obj\Debug\PassportViza.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\obj\Debug\PassportViza.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\obj\Debug\PassportViza.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\PassportViza\PassportViza\obj\Debug\PassportViza.pdb
