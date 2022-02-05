@@ -27,12 +27,16 @@ namespace ForLoopCode
             int forMultiplicationResult = 1;
             for (int indexMultiplication = 1; indexMultiplication <= enteredNumber; indexMultiplication += 1)
             {
-                forSumResult *= indexMultiplication;
+                forMultiplicationResult *= indexMultiplication;
             }
 
             Console.WriteLine("for Multiplication Section:\n" + forMultiplicationResult);
 
-
+            //exit
+            Console.WriteLine("press eny key to exit");
+            Console.ReadLine();
         }
+
     }
+    
 }

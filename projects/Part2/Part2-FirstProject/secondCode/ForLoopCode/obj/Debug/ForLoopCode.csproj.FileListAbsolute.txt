@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\obj\Debug\ForLoopCode.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\obj\Debug\ForLoopCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\obj\Debug\ForLoopCode.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\bin\Debug\ForLoopCode.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\bin\Debug\ForLoopCode.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\bin\Debug\ForLoopCode.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\obj\Debug\ForLoopCode.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\ForLoopCode\obj\Debug\ForLoopCode.pdb
