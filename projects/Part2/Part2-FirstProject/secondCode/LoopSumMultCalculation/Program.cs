@@ -25,16 +25,16 @@ namespace LoopSumMultCalculation
 
             Console.WriteLine("While Sum Section:\n" + whileSumResult);
 
-            //while Section --> sum
+            //while Section --> Multiplication
             int SecondIndex = 1;
             int whileMultiplicationResult = 0;
-            while (index <= enteredNumber)
+            while (SecondIndex <= enteredNumber)
             {
-                whileSumResult += index;
-                index -= -1;
+                whileMultiplicationResult += index;
+                SecondIndex -= -1;
             }
 
-            Console.WriteLine("While Sum Section:\n" + whileSumResult);
+            Console.WriteLine("While Multiplication Section:\n" + whileMultiplicationResult);
 
             
 
