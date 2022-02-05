@@ -24,6 +24,15 @@ namespace whileForLoopProject
             }
 
             Console.WriteLine("While Section:\n"+whileResult);
+
+            //for section
+            String forResult = "";
+            for (int forIndex = 1; forIndex<=enteredNumber; forIndex-=-1)
+            {
+                forResult += forIndex.ToString() + "\n";
+            }
+            Console.WriteLine("for Section:\n" + whileResult);
+
             Console.WriteLine("press eny key ");
             Console.ReadLine();
         }
