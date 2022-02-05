@@ -1,0 +1,7 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\bin\Debug\whileNineCondition.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\bin\Debug\whileNineCondition.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\bin\Debug\whileNineCondition.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\obj\Debug\whileNineCondition.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\obj\Debug\whileNineCondition.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\obj\Debug\whileNineCondition.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-secondProject\whileNineCondition\obj\Debug\whileNineCondition.pdb

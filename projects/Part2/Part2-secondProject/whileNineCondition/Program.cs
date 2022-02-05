@@ -13,7 +13,7 @@ namespace whileNineCondition
             int applicationTurns = 1;
             while (applicationTurns < 11)
             {
-                Console.Write("application Turn: " + applicationTurns);
+                Console.WriteLine("application Turn: " + applicationTurns);
                 Console.Write("Please enter your first number: ");
                 String firstinputsData = Console.ReadLine();
                 int firstNumber = int.Parse(firstinputsData);
