@@ -10,6 +10,19 @@ namespace whileForLoopProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Please enter your number:");
+            String inputsData = Console.ReadLine();
+            int enteredNumber = int.Parse(inputsData);
+
+            //while Section
+            int index = 1;
+            String whileResult="";
+            while (index <= enteredNumber)
+            {
+                whileResult +=index.ToString()+"\n";
+                index -= -1;
+            }
+
         }
     }
 }
