@@ -36,7 +36,6 @@ namespace LoopSumMultCalculation
 
             Console.WriteLine("While Multiplication Section:\n" + whileMultiplicationResult);
 
-            
             //exit
             Console.WriteLine("press eny key to exit");
             Console.ReadLine();
