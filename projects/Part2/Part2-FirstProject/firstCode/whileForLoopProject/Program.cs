@@ -33,7 +33,8 @@ namespace whileForLoopProject
             }
             Console.WriteLine("for Section:\n" + whileResult);
 
-            Console.WriteLine("press eny key ");
+            //exit
+            Console.WriteLine("press eny key to exit");
             Console.ReadLine();
         }
     }
