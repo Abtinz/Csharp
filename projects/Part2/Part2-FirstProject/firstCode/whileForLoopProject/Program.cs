@@ -10,7 +10,7 @@ namespace whileForLoopProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter your number:");
+            Console.Write("Please enter your number: ");
             String inputsData = Console.ReadLine();
             int enteredNumber = int.Parse(inputsData);
 
@@ -23,6 +23,9 @@ namespace whileForLoopProject
                 index -= -1;
             }
 
+            Console.WriteLine("While Section:\n"+whileResult);
+            Console.WriteLine("press eny key ");
+            Console.ReadLine();
         }
     }
 }

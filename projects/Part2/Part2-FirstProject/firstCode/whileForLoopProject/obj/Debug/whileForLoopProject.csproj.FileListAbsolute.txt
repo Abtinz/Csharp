@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\bin\Debug\whileForLoopProject.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\bin\Debug\whileForLoopProject.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\bin\Debug\whileForLoopProject.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\obj\Debug\whileForLoopProject.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\obj\Debug\whileForLoopProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\obj\Debug\whileForLoopProject.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\obj\Debug\whileForLoopProject.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\firstCode\whileForLoopProject\obj\Debug\whileForLoopProject.pdb
