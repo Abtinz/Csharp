@@ -27,17 +27,16 @@ namespace LoopSumMultCalculation
 
             //while Section --> Multiplication
             int SecondIndex = 1;
-            int whileMultiplicationResult = 0;
+            int whileMultiplicationResult = 1;
             while (SecondIndex <= enteredNumber)
             {
-                whileMultiplicationResult += index;
+                whileMultiplicationResult *= SecondIndex;
                 SecondIndex -= -1;
             }
 
             Console.WriteLine("While Multiplication Section:\n" + whileMultiplicationResult);
 
             
-
             //exit
             Console.WriteLine("press eny key to exit");
             Console.ReadLine();

@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\bin\Debug\LoopSumMultCalculation.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\bin\Debug\LoopSumMultCalculation.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\bin\Debug\LoopSumMultCalculation.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\obj\Debug\LoopSumMultCalculation.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\obj\Debug\LoopSumMultCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\obj\Debug\LoopSumMultCalculation.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\obj\Debug\LoopSumMultCalculation.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-FirstProject\secondCode\LoopSumMultCalculation\obj\Debug\LoopSumMultCalculation.pdb
