@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\bin\Debug\Fuction.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\bin\Debug\Fuction.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\bin\Debug\Fuction.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\obj\Debug\Fuction.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\obj\Debug\Fuction.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\obj\Debug\Fuction.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\obj\Debug\Fuction.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part2\Part2-thirdProject\Fuction\obj\Debug\Fuction.pdb
