@@ -22,6 +22,17 @@ namespace ForLoopCode
             }
 
             Console.WriteLine("for Sum Section:\n" + forSumResult);
+
+            //for Section --> sum
+            int forMultiplicationResult = 1;
+            for (int indexMultiplication = 1; indexMultiplication <= enteredNumber; indexMultiplication += 1)
+            {
+                forSumResult *= indexMultiplication;
+            }
+
+            Console.WriteLine("for Multiplication Section:\n" + forMultiplicationResult);
+
+
         }
     }
 }
