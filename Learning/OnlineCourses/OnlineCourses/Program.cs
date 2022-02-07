@@ -49,11 +49,11 @@ namespace OnlineCourses
                 }
                 else if (choice == "3")
                 {
-
+                    emailMaker();
                 }
                 else if (choice == "4")
                 {
-
+                   
                 }
                 else
                 {
@@ -132,12 +132,23 @@ namespace OnlineCourses
         {
             if (courseIsSaved)
             {
+                setemailMaker();
+                Console.Write(emailContext);
+                Console.Write("press eny key for main pannel");
+                Console.ReadLine();
+            }
 
+            else
+            {
+                Console.WriteLine("you have not completed your course form");
+                Console.Write("press eny key for main pannel");
+                Console.ReadLine();
             }
         }
         static void setemailMaker()
         {
-            emailContext = "From: " + serverEmail +
+            emailContext = "-------------------------------------------------------------------\n" +
+                           "From: " + serverEmail +
                            "\nTo: " + email +
                            "\nDear " + fullName + "\nThis is your course print\nPlease save it!" +
                            "\nCourse Details: " +
@@ -145,7 +156,8 @@ namespace OnlineCourses
                              "\nCourse ID: " + courseId +
                              "\nCourse Teacher: " + courseTeacher +
                              "\nCourse Organizer: " + courseOrganizer +
-                             "\nCourse Description: " + courseDescription;
+                             "\nCourse Description: " + courseDescription+
+                             "\n-------------------------------------------------------------------";
         }
     }
 }
