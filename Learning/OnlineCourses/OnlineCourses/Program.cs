@@ -122,8 +122,30 @@ namespace OnlineCourses
             }
             else
             {
-                Console.Write("you have not completed your course form");
+                Console.WriteLine("you have not completed your course form");
+                Console.Write("press eny key for main pannel");
+                Console.ReadLine();
             }
+        }
+
+        static void emailMaker()
+        {
+            if (courseIsSaved)
+            {
+
+            }
+        }
+        static void setemailMaker()
+        {
+            emailContext = "From: " + serverEmail +
+                           "\nTo: " + email +
+                           "\nDear " + fullName + "\nThis is your course print\nPlease save it!" +
+                           "\nCourse Details: " +
+                           "\nCourse Name: " + courseName +
+                             "\nCourse ID: " + courseId +
+                             "\nCourse Teacher: " + courseTeacher +
+                             "\nCourse Organizer: " + courseOrganizer +
+                             "\nCourse Description: " + courseDescription;
         }
     }
 }
