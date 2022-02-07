@@ -37,7 +37,7 @@ namespace OnlineCourses
             {
                 Console.WriteLine("Full name :" + fullName);
                 Console.WriteLine("1) New Course"
-                    + "\n2) Course View" + "\n3) Print Course (email)" + "\n4) feed back" + "\nElse : Exit");
+                    + "\n2) Course View" + "\n3) Print Course (email)" + "\n4) contact us" + "\nElse : Exit");
                 string choice = Console.ReadLine();
                 if(choice == "1")
                 {
@@ -53,11 +53,11 @@ namespace OnlineCourses
                 }
                 else if (choice == "4")
                 {
-                   
+                    contact();
                 }
                 else
                 {
-
+                    break;
                 }
                
             }
@@ -134,7 +134,7 @@ namespace OnlineCourses
             {
                 setemailMaker();
                 Console.Write(emailContext);
-                Console.Write("press eny key for main pannel");
+                Console.Write("\npress eny key for main pannel");
                 Console.ReadLine();
             }
 
@@ -158,6 +158,14 @@ namespace OnlineCourses
                              "\nCourse Organizer: " + courseOrganizer +
                              "\nCourse Description: " + courseDescription+
                              "\n-------------------------------------------------------------------";
+        }
+
+        static void contact()
+        {
+            //serverEmail is fake !
+            Console.WriteLine("Git Hub: Abtinz"+"\nEmail: "+serverEmail);
+            Console.Write("press eny key for main pannel");
+            Console.ReadLine();
         }
     }
 }
