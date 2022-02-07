@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\bin\Debug\OnlineCourses.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\bin\Debug\OnlineCourses.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\bin\Debug\OnlineCourses.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\obj\Debug\OnlineCourses.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\obj\Debug\OnlineCourses.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\obj\Debug\OnlineCourses.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\obj\Debug\OnlineCourses.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\Learning\OnlineCourses\OnlineCourses\obj\Debug\OnlineCourses.pdb

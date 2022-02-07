@@ -38,8 +38,26 @@ namespace OnlineCourses
             fullName = Console.ReadLine();
             Console.WriteLine("Please enter your last name: ");
             fullName += Console.ReadLine();
+            Console.WriteLine("Please enter your email: ");
+            email = Console.ReadLine();
+            while (true)
+            {
+                Console.WriteLine("Please enter your phone Number: ");
+                string enterdPhoneNumber = Console.ReadLine();
+                //numeeric check
+                bool isNumeric = int.TryParse(enterdPhoneNumber, out phoneNumber);
+                if (isNumeric)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Error phone number is numeric!")
+                }
+                 
+            }
+             
 
-          
         }
     }
 }
