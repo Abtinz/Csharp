@@ -32,6 +32,7 @@ namespace OnlineCourses
         {
             signUp();
             courseIsSaved = false;
+            serverEmail = "courseMaker@course.abn.com";
             while (true)
             {
                 Console.WriteLine("Full name :" + fullName);
@@ -44,9 +45,13 @@ namespace OnlineCourses
                 }
                 else if (choice== "2")
                 {
-
+                    CourseView();
                 }
                 else if (choice == "3")
+                {
+
+                }
+                else if (choice == "4")
                 {
 
                 }
@@ -100,6 +105,25 @@ namespace OnlineCourses
             Console.Write("Course Description: ");
             courseDescription = Console.ReadLine();
             courseIsSaved = true;
+        }
+
+        static void CourseView()
+        {
+            if (courseIsSaved)
+            {
+                Console.WriteLine("Course Name: "+courseName+
+                             "\nCourse ID: " + courseId +
+                             "\nCourse Teacher: " +  courseTeacher +
+                             "\nCourse Organizer: " + courseOrganizer +
+                             "\nCourse Description: " + courseDescription
+                    );
+                Console.Write("press eny key for main pannel");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.Write("you have not completed your course form");
+            }
         }
     }
 }
