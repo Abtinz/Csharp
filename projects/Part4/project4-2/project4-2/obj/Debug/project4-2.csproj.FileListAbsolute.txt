@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\bin\Debug\project4-2.exe.config
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\bin\Debug\project4-2.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\bin\Debug\project4-2.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\obj\Debug\project4-2.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\obj\Debug\project4-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\obj\Debug\project4-2.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\obj\Debug\project4-2.exe
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part4\project4-2\project4-2\obj\Debug\project4-2.pdb

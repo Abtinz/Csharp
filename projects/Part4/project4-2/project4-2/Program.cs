@@ -39,8 +39,10 @@ namespace project4_2
             foreach(string key in map.Keys) {
                 int value; 
                 map.TryGetValue(key, out value);
-                Console.WriteLine(key , value); 
+                Console.WriteLine(key + value);
             }
+            Console.WriteLine("press eny key to exit");
+            Console.ReadLine();
         }
     }
 }
