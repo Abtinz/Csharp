@@ -20,8 +20,8 @@ namespace project4_3
 
             int queueNumber;
 
-            Console.WriteLine("Queue size :",queue.Count);
-            Console.WriteLine("Queue members :");
+            Console.WriteLine("Queue size: "+queue.Count);
+            Console.WriteLine("Queue members:");
             queueNumber = queue.Dequeue();
             Console.Write(queueNumber+"  ");
             queueNumber = queue.Dequeue();
@@ -31,7 +31,32 @@ namespace project4_3
             queueNumber = queue.Dequeue();
             Console.Write(queueNumber + "  ");
             queueNumber = queue.Dequeue();
-            Console.Write(queueNumber + "  ");
+            Console.Write(queueNumber + "\n\n");
+
+            Stack<string> stack = new Stack<string>();
+            stack.Push("project");
+            stack.Push("queue");
+            stack.Push("and");
+            stack.Push("stack");
+            stack.Push("Maktabkhooneh");
+            stack.Push("#C");
+            
+            string stackNewValus;
+            
+            Console.WriteLine("stack size: "+stack.Count);
+            Console.WriteLine("stack text:");
+            stackNewValus = stack.Pop();
+            Console.Write(stackNewValus+"-");
+            stackNewValus = stack.Pop();
+            Console.Write(stackNewValus + "-");
+            stackNewValus = stack.Pop();
+            Console.Write(stackNewValus + "-");
+            stackNewValus = stack.Pop();
+            Console.Write(stackNewValus + "-");
+            stackNewValus = stack.Pop();
+            Console.Write(stackNewValus + "-");
+            stackNewValus = stack.Pop();
+            Console.WriteLine(stackNewValus);
 
             Console.Write("\npress eny key to exit");
             Console.ReadLine();
