@@ -29,6 +29,27 @@ namespace project4_1
             }
 
             Console.WriteLine("Sum Of Array Numbers: "+sumOfArrayNumbers);
+
+
+            //list 
+            List<int> numbersList= new List<int>();
+            int listNumber = 1;
+            while (listNumber < 11)
+            {
+
+                numbersList.Add(listNumber);
+                listNumber -= -1;
+            }
+
+            //sum section
+            int multipactionOflistNumbers = 1;
+            foreach (int number in numbersList)
+            {
+                multipactionOflistNumbers *= number;
+            }
+
+            Console.WriteLine("Multipaction Of List Numbers: " + multipactionOflistNumbers);
+
             Console.WriteLine("press eny key to exit");
             Console.ReadLine();
         }
