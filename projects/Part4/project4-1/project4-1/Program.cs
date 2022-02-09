@@ -12,10 +12,13 @@ namespace project4_1
         {
             //array
             int[] numbersArray = new int[10];
-            int firstNumber = 0;
+            int firstNumber = 1;
+            int currentIndex;
             while (firstNumber < 11)
             {
-                numbersArray[firstNumber++] = firstNumber;
+                currentIndex = firstNumber - 1;
+                numbersArray[currentIndex] = firstNumber;
+                firstNumber -= -1;
             }
 
             //sum section
@@ -25,7 +28,7 @@ namespace project4_1
                 sumOfArrayNumbers += number;
             }
 
-            Console.WriteLine(sumOfArrayNumbers);
+            Console.WriteLine("Sum Of Array Numbers: "+sumOfArrayNumbers);
             Console.WriteLine("press eny key to exit");
             Console.ReadLine();
         }
