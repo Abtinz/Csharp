@@ -8,5 +8,21 @@ namespace project3_1
 {
     internal class Animal
     {
+        public string Name { get; set; }
+        public int age { get; set; }
+        public double wieght { get; set; }
+
+
+        public void sleeping()
+        {
+            Console.WriteLine(Name+"is sleeping");
+        }
+
+        public void eating()
+        {
+            Console.WriteLine(Name + "is eat");
+        }
+
+
     }
 }
