@@ -22,7 +22,7 @@ namespace project4_1
 
         public static void shapeType()
         {
-            Console.WriteLine("Triangle");
+            Console.WriteLine("Triangle:");
         }
 
         /*
