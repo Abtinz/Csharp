@@ -20,7 +20,7 @@ namespace project3_1
             tigger.HuntSpeed = 20.5;
 
             //Eagle
-            bird.Name = "Tigger";
+            bird.Name = "Bird";
             bird.age = 8;
             bird.wieght = 40;
             bird.FlyHeight = 300;

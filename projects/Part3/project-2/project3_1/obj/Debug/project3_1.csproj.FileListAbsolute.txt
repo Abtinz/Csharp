@@ -5,3 +5,4 @@ C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project
 C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-2\project3_1\obj\Debug\project3_1.csproj.CoreCompileInputs.cache
 C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-2\project3_1\obj\Debug\project3_1.exe
 C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-2\project3_1\obj\Debug\project3_1.pdb
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-2\project3_1\obj\Debug\project3_1.csproj.AssemblyReference.cache

@@ -12,7 +12,7 @@ namespace project3_1
 
         public void flying()
         {
-            Console.WriteLine(Name + " is flying at " + FlyHeight+"(m)");
+            Console.WriteLine(Name + " is flying at " + FlyHeight+" (m)");
         }
     }
 }

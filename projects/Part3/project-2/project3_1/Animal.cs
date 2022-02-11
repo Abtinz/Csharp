@@ -15,20 +15,20 @@ namespace project3_1
 
         public void sleeping()
         {
-            Console.WriteLine(Name+"is sleeping");
+            Console.WriteLine(Name+" is sleeping");
         }
 
         public void eating()
         {
-            Console.WriteLine(Name + "is eating");
+            Console.WriteLine(Name + " is eating");
         }
 
         public void details()
         {
-            Console.WriteLine("Animal Details" +
-                              "Name: " + Name +
-                              "Age: " + age +
-                              "Wight" + wieght + " kg"
+            Console.WriteLine("Animal Details:" +
+                              "\nName: " + Name +
+                              "\nAge: " + age +
+                              "\nWight: " + wieght + " kg"
 
                 );
         }
