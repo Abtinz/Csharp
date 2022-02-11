@@ -9,7 +9,7 @@ namespace project4_1
     internal class Triangle
     {
         private float TriangleBase { set; get; }
-        private float TriangleHeight { get; }
+        public float TriangleHeight { set; get; }
 
         public Triangle(float BaseValue)
         {
