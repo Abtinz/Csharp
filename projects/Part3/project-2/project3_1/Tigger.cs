@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace project3_1
 {
-    internal class Tigger
+    internal class Tigger : Animal
     {
+        public double HuntSpeed { get; set; }
+
+        public void hunting()
+        {
+            Console.WriteLine(Name + " is hunting with " + HuntSpeed +" (km) speed");
+        }
     }
 }

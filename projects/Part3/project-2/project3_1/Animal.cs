@@ -23,6 +23,16 @@ namespace project3_1
             Console.WriteLine(Name + "is eating");
         }
 
+        public void details()
+        {
+            Console.WriteLine("Animal Details" +
+                              "Name: " + Name +
+                              "Age: " + age +
+                              "Wight" + wieght + " kg"
+
+                );
+        }
+
 
     }
 }
