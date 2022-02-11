@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace project3_1
 {
-    internal class eagle
+    internal class eagle : Animal
     {
+        public double FlyHeight { get; set; }
+
+        public void flying()
+        {
+            Console.WriteLine(Name + " is flying at " + FlyHeight);
+        }
     }
 }

@@ -20,7 +20,7 @@ namespace project3_1
 
         public void eating()
         {
-            Console.WriteLine(Name + "is eat");
+            Console.WriteLine(Name + "is eating");
         }
 
 
