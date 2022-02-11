@@ -1,0 +1,3 @@
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-1\project4_1\obj\Debug\project4_1.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-1\project4_1\obj\Debug\project4_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\#C Programing\Maktab Khoneh\projects\Part3\project-1\project4_1\obj\Debug\project4_1.csproj.CoreCompileInputs.cache
