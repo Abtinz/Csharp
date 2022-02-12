@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\bin\Debug\project3.exe.config
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\bin\Debug\project3.exe
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\bin\Debug\project3.pdb
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\obj\Debug\project3.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\obj\Debug\project3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\obj\Debug\project3.exe
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part3\project-3\project3\obj\Debug\project3.pdb
