@@ -8,9 +8,10 @@ namespace project3
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            Calculator calculator = new Calculator();
+            
             List<int> numbers = new List<int>();
             while(numbers.Count < 5)
             {
@@ -37,6 +38,30 @@ namespace project3
                     
                 }
                 
+            }
+            calculateAverage(numbers);           
+        }
+
+        public static void calculateAverage(List<int> numbers)
+        {
+
+            Console.WriteLine("Numbers List:");
+            foreach (int number in numbers)
+            {
+                Console.Write(number + " ");
+            }
+
+            if (numbers.Count == 2)
+            {
+                Console.WriteLine("Average: " + Calculator.Average(numbers[0], numbers[1]));
+            }
+            else if (numbers.Count == 3)
+            {
+                Console.WriteLine("Average: " + Calculator.Average(numbers[0], numbers[1], numbers[2]));
+            }
+            else if (numbers.Count == 4)
+            {
+                Console.WriteLine("Average: " + Calculator.Average(numbers[0], numbers[1], numbers[2], numbers[3]));
             }
         }
     }

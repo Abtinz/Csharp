@@ -8,20 +8,23 @@ namespace project3
 {
     internal class Calculator
     {
-        public float result { get; set; }
+        
 
-        public void Average(float firstNumber , float secondNumber) {
-             result = (firstNumber + secondNumber)/2; 
+        public static float Average(float firstNumber , float secondNumber) {
+            float result = (firstNumber + secondNumber)/2; 
+            return result;
         }
 
-        public void Average(float firstNumber, float secondNumber , float thirdNumber)
+        public static float Average(float firstNumber, float secondNumber , float thirdNumber)
         {
-            result = (firstNumber + secondNumber + thirdNumber) / 3;
+            float result = (firstNumber + secondNumber + thirdNumber) / 3;
+            return result;
         }
 
-        public void Average(float firstNumber, float secondNumber, float thirdNumber,float fourthNumber)
+        public static float Average(float firstNumber, float secondNumber, float thirdNumber,float fourthNumber)
         {
-            result = (firstNumber + secondNumber + thirdNumber + fourthNumber) / 4;
+            float result = (firstNumber + secondNumber + thirdNumber + fourthNumber) / 4;
+            return result;
         }
 
     }
