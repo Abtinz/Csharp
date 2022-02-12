@@ -13,18 +13,18 @@ namespace project3
         {
             
             List<int> numbers = new List<int>();
-            while(numbers.Count < 5)
+            while(numbers.Count < 4)
             {
                 if (numbers.Count < 2)
                 {
-                    Console.WriteLine("Please enter a new number");
+                    Console.Write("Please enter a new number: ");
                     numbers.Add(int.Parse(Console.ReadLine()));
                 }
                 else
                 {
                     Console.WriteLine("Numbers Count: " + numbers.Count +
                                       "\nyou can enter four or three or two number to average!\n" +
-                                      "if you want to exit type exit:(if you dont please press enter)" );
+                                      "if you want to exit type exit:(if you dont please press eny key)" );
                     string choice = Console.ReadLine();
                     if (choice == "exit")
                     {
@@ -32,7 +32,7 @@ namespace project3
                     }
                     else
                     {
-                        Console.WriteLine("Please enter a new number");
+                        Console.Write("Please enter a new number: ");
                         numbers.Add(int.Parse(Console.ReadLine()));
                     }
                     
@@ -53,16 +53,18 @@ namespace project3
 
             if (numbers.Count == 2)
             {
-                Console.WriteLine("Average: " + Calculator.Average(numbers[0], numbers[1]));
+                Console.WriteLine("\nAverage: " + Calculator.Average(numbers[0], numbers[1]));
             }
             else if (numbers.Count == 3)
             {
-                Console.WriteLine("Average: " + Calculator.Average(numbers[0], numbers[1], numbers[2]));
+                Console.WriteLine("\nAverage: " + Calculator.Average(numbers[0], numbers[1], numbers[2]));
             }
             else if (numbers.Count == 4)
             {
-                Console.WriteLine("Average: " + Calculator.Average(numbers[0], numbers[1], numbers[2], numbers[3]));
+                Console.WriteLine("\nAverage: " + Calculator.Average(numbers[0], numbers[1], numbers[2], numbers[3]));
             }
+            Console.WriteLine("press eny key to exit");
+            Console.ReadLine();
         }
     }
 }
