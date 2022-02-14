@@ -22,8 +22,8 @@ namespace project5._1
                 }
                 if (int.TryParse(enterdMassage, out number))
                 {
-                    Console.WriteLine("Dynamic Algorithm (Factorial)" + dynamicFactorial(number));
-                    Console.WriteLine("Recursive Algorithm (Factorial)" + recursiveFactorial(number));
+                    Console.WriteLine("Dynamic Algorithm (Factorial): " + dynamicFactorial(number));
+                    Console.WriteLine("Recursive Algorithm (Factorial): " + recursiveFactorial(number));
                     
                 }
                 else
@@ -36,7 +36,7 @@ namespace project5._1
 
             
         }
-        static int dynamicFactorial(int number)
+        static long dynamicFactorial(int number)
         {
             if(number == 0)
             {
@@ -44,7 +44,7 @@ namespace project5._1
             }
             else
             {
-                int resault = 1;
+                long resault = 1;
                 for(int currentNumber = 1 ; currentNumber <= number; currentNumber++)
                 {
                     resault *= currentNumber;
@@ -55,7 +55,7 @@ namespace project5._1
             
         }
 
-        static int recursiveFactorial(int number)
+        static long recursiveFactorial(int number)
         {
             if (number == 0)
             {
