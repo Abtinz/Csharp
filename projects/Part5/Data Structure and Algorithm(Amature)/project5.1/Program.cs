@@ -22,13 +22,49 @@ namespace project5._1
                 }
                 if (int.TryParse(enterdMassage, out number))
                 {
-
+                    Console.WriteLine("Dynamic Algorithm (Factorial)" + dynamicFactorial(number));
+                    Console.WriteLine("Recursive Algorithm (Factorial)" + recursiveFactorial(number));
+                    
                 }
                 else
                 {
                     Console.WriteLine("Invalid Input!");
 
                 }
+            }
+
+
+            
+        }
+        static int dynamicFactorial(int number)
+        {
+            if(number == 0)
+            {
+                return 1;
+            }
+            else
+            {
+                int resault = 1;
+                for(int currentNumber = 1 ; currentNumber <= number; currentNumber++)
+                {
+                    resault *= currentNumber;
+                }
+                return resault;
+
+            }
+            
+        }
+
+        static int recursiveFactorial(int number)
+        {
+            if (number == 0)
+            {
+                return 1;
+            }
+
+            else
+            {
+                return number * recursiveFactorial(number - 1);
             }
         }
     }
