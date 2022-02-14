@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\bin\Debug\project5.1.exe.config
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\bin\Debug\project5.1.exe
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\bin\Debug\project5.1.pdb
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\obj\Debug\project5.1.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\obj\Debug\project5.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\obj\Debug\project5.1.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\obj\Debug\project5.1.exe
+C:\Users\ABTIN\Desktop\coding\Programming\#C Programing\Maktab Khoneh\projects\Part5\Data Structure and Algorithm(Amature)\project5.1\obj\Debug\project5.1.pdb
