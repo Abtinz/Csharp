@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\bin\Debug\FileIOStream.exe.config
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\bin\Debug\FileIOStream.exe
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\bin\Debug\FileIOStream.pdb
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\obj\Debug\FileIOStream.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\obj\Debug\FileIOStream.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\obj\Debug\FileIOStream.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\obj\Debug\FileIOStream.exe
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project1\FileIOStream\obj\Debug\FileIOStream.pdb
