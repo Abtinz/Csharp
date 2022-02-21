@@ -1,0 +1,8 @@
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\bin\Debug\tryCatchProject.exe.config
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\bin\Debug\tryCatchProject.exe
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\bin\Debug\tryCatchProject.pdb
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\obj\Debug\tryCatchProject.csproj.AssemblyReference.cache
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\obj\Debug\tryCatchProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\obj\Debug\tryCatchProject.csproj.CoreCompileInputs.cache
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\obj\Debug\tryCatchProject.exe
+C:\Users\ABTIN\Documents\coding\Programming\#C Programing\Maktab Khoneh\projects\Part6\project2\tryCatchProject\obj\Debug\tryCatchProject.pdb
